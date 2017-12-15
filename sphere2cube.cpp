@@ -10,8 +10,8 @@ typedef std::pair<float, float> vec2f;
 typedef std::vector<float> VF;
 typedef std::vector<VF> VVF;
 
-const float pi = M_PI; 
-const float doub_pi = pi*2; 
+const float pi = M_PI;
+const float doub_pi = pi*2;
 const float half_pi = pi/2.0;
 const float inv_pi = 1/pi;
 
